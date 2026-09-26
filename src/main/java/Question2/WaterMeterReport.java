@@ -8,6 +8,7 @@ package Question2;
  *
  * @author jenni
  */
-public class WaterMeterReport {
+public class WaterMeterReport extends WaterMeter {
+    
     
 }
