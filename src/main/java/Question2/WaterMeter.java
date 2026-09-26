@@ -17,7 +17,7 @@ public abstract class WaterMeter implements IWaterMeter{
         return PropertyAddress;
     }
 
-    public int getStudentsPresent() {
+    public int getCurrentReading() {
         return CurrentReading;
     }
 
